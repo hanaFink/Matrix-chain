@@ -1,0 +1,6 @@
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\bin\Debug\MatrixChain.exe.config
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\bin\Debug\MatrixChain.exe
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\bin\Debug\MatrixChain.pdb
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\obj\Debug\MatrixChain.csprojAssemblyReference.cache
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\obj\Debug\MatrixChain.exe
+C:\Users\hana\source\repos\MatrixChain\MatrixChain\obj\Debug\MatrixChain.pdb
